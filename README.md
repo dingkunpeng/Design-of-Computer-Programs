@@ -8,3 +8,8 @@ familiar with the following programming concepts:data structures,basic algorithm
 
 Syllabus
 
+Lesson 1:Winning Poker Hands 
+
+Steps of the design process;Developing for clarity and generality;Argunments for program correctness;Experimentation and 
+simulation;Dedign tradeoffs;Simplicity and Clarity.Decomposition and composability.
+
